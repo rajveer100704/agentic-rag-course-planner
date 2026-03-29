@@ -1,0 +1,157 @@
+SOURCE: https://catalog.stateuniversity.edu/courses/cs/special-topics
+TITLE: State University Course Catalog — CS Electives and Special Topics
+ACCESSED: 2025-01-15
+INSTITUTION: State University, Department of Computer Science
+
+================================================================================
+SECTION: CS 495 — Special Topics in Computer Science
+================================================================================
+Credits: 3
+Prerequisites: CS 301 with a grade of C or higher, AND instructor consent.
+Co-requisites: None
+Description:
+Variable content course offered occasionally on emerging topics such as
+Quantum Computing, Blockchain, AR/VR, and Federated Learning. Specific topic
+announced in semester schedule.
+Offered: Varies (not every semester)
+Note: May be repeated for credit when topic differs. Total maximum: 6 credits
+under this course number.
+
+================================================================================
+SECTION: CS 499 — Independent Study
+================================================================================
+Credits: 1–3 (variable)
+Prerequisites: Instructor consent required. Student must have completed CS 301
+and have a CS GPA of 2.5 or higher.
+Co-requisites: None
+Description:
+Self-directed study on a topic approved by the supervising faculty member.
+Students submit a written proposal at least 2 weeks before the term begins.
+Offered: Fall, Spring, Summer
+
+================================================================================
+SECTION: CS 102 — Introduction to Web Development (duplicate reference check)
+================================================================================
+Note: CS 102 does NOT count as a prerequisite for CS 201 or CS 210. Students
+wishing to proceed to CS 201 must complete CS 101, not CS 102.
+
+================================================================================
+SOURCE: https://catalog.stateuniversity.edu/courses/cs/400-level-electives
+TITLE: Additional 400-Level CS Elective Descriptions
+ACCESSED: 2025-01-15
+
+================================================================================
+SECTION: CS 460 — Robotics and Autonomous Systems
+================================================================================
+Credits: 3
+Prerequisites: CS 250 with a grade of C or higher, AND CS 260 (Linear Algebra
+for ML) with a grade of C or higher, OR instructor consent.
+Co-requisites: None
+Description:
+Kinematics, sensor fusion, motion planning, ROS framework, and autonomous
+vehicle principles.
+Offered: Fall only
+
+================================================================================
+SECTION: CS 470 — Parallel and High-Performance Computing
+================================================================================
+Credits: 3
+Prerequisites: CS 311 (Operating Systems) with a grade of C or higher.
+Co-requisites: None
+Description:
+Shared-memory and distributed-memory parallelism, OpenMP, MPI, GPU computing
+with CUDA, and performance profiling.
+Offered: Spring only
+
+================================================================================
+SECTION: CS 480 — Formal Methods and Verification
+================================================================================
+Credits: 3
+Prerequisites: CS 330 (Algorithms and Complexity) with a grade of C or higher.
+Co-requisites: None
+Description:
+Model checking, theorem proving, specification languages (TLA+, Alloy), and
+software correctness verification.
+Offered: Spring only
+
+================================================================================
+SOURCE: https://catalog.stateuniversity.edu/courses/cs/cross-listed
+TITLE: Cross-Listed and Partner-Department Courses Approved for CS Electives
+ACCESSED: 2025-01-15
+
+================================================================================
+SECTION: STAT 350 — Applied Regression Analysis (cross-listed with CS)
+================================================================================
+Credits: 3
+Prerequisites: MATH 240 (Probability and Statistics) with a grade of C or higher,
+OR CS 220 with a grade of C or higher.
+Co-requisites: None
+Description:
+Simple and multiple regression, logistic regression, model diagnostics, and
+applied statistical modeling.
+Offered: Fall, Spring
+CS Elective Status: Counts as an approved Technical Elective for B.S. CS (up to 6
+non-CS credits allowed per policy).
+
+================================================================================
+SECTION: INFO 310 — Information Systems and Management
+================================================================================
+Credits: 3
+Prerequisites: CS 201 with a grade of C or higher, OR instructor consent.
+Co-requisites: None
+Description:
+Enterprise information systems, ERP, business intelligence, and IT project
+management.
+Offered: Fall, Spring
+CS Elective Status: Approved Technical Elective (counts toward the 6-credit
+non-CS elective limit).
+
+================================================================================
+SECTION: INFO 320 — UX Research and Design
+================================================================================
+Credits: 3
+Prerequisites: INFO 310 with a grade of C or higher, OR CS 370 with a grade
+of C or higher.
+Co-requisites: None
+Description:
+User research methods, wireframing, prototyping, usability studies, and
+interaction design principles.
+Offered: Spring only
+CS Elective Status: Approved Technical Elective (counts toward the 6-credit
+non-CS elective limit).
+
+================================================================================
+SOURCE: https://catalog.stateuniversity.edu/policies/registration-faq
+TITLE: Registration FAQ — Common Student Questions
+ACCESSED: 2025-01-15
+
+================================================================================
+SECTION: Registration FAQ — Prerequisite Overrides
+================================================================================
+Q: Can a professor override a prerequisite for me?
+A: Yes, instructors may grant prerequisite overrides on a case-by-case basis.
+The instructor must submit a signed Override Authorization Form to the Registrar.
+Prerequisite overrides do not guarantee success in the course; students who
+receive overrides are responsible for acquiring any missed foundational knowledge.
+Overrides are typically granted in cases where a student has equivalent knowledge
+from work experience or non-equivalent transfer courses.
+
+================================================================================
+SECTION: Registration FAQ — Waitlists
+================================================================================
+Q: How do course waitlists work?
+A: When a course reaches capacity, eligible students may add themselves to a
+waitlist. Waitlist position is determined by the student's registration priority
+(based on credit hours). Waitlisted students are auto-enrolled if a seat opens
+before the end of Week 1. After Week 1, students on the waitlist must manually
+enroll if notified of an opening.
+
+================================================================================
+SECTION: Registration FAQ — Concurrent Enrollment at Another Institution
+================================================================================
+Q: Can I take a course at a community college concurrently while enrolled at
+State University?
+A: Yes, with prior advisor approval. Credits must be pre-approved via a
+Concurrent Enrollment Agreement form. Grades from the outside institution
+do not affect State University GPA but may affect financial aid satisfactory
+academic progress calculations.

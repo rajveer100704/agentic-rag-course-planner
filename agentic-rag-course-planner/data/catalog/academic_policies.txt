@@ -1,0 +1,158 @@
+SOURCE: https://catalog.stateuniversity.edu/policies/academic
+TITLE: State University — Academic Policies and Regulations
+ACCESSED: 2025-01-15
+INSTITUTION: State University, Office of the Registrar
+
+================================================================================
+SECTION: Grading Scale and Grade Points
+================================================================================
+State University uses the following grading scale:
+
+  A   = 4.0 grade points   (93–100%)
+  A-  = 3.7 grade points   (90–92%)
+  B+  = 3.3 grade points   (87–89%)
+  B   = 3.0 grade points   (83–86%)
+  B-  = 2.7 grade points   (80–82%)
+  C+  = 2.3 grade points   (77–79%)
+  C   = 2.0 grade points   (73–76%)
+  C-  = 1.7 grade points   (70–72%)
+  D+  = 1.3 grade points   (67–69%)
+  D   = 1.0 grade points   (63–66%)
+  D-  = 0.7 grade points   (60–62%)
+  F   = 0.0 grade points   (below 60%)
+
+  W   = Withdrawal (no grade points; does not affect GPA; counts as an attempt)
+  I   = Incomplete (temporary; must be resolved within 6 weeks of term end)
+  P/F = Pass/Fail (available for free electives only; not allowed for major
+        requirements or Gen Ed requirements without written petition)
+  AU  = Audit (no credit; no grade points)
+
+IMPORTANT: A grade of C- is NOT considered a "C or higher." When a course
+requirement states "C or higher," the student must earn exactly a C (2.0) or
+above. A C- (1.7) does NOT satisfy this requirement.
+
+================================================================================
+SECTION: Minimum Grade Requirements for Prerequisites
+================================================================================
+When a course description states a prerequisite requires a grade of "C or higher,"
+this means a letter grade of C or better (A, A-, B+, B, B-, C+ or C).
+  • C- does NOT satisfy a "C or higher" prerequisite requirement.
+  • A Pass (P) grade satisfies a prerequisite requirement only if the prerequisite
+    course was completed under P/F grading AND the department chair provides
+    written approval.
+  • An Incomplete (I) grade does NOT satisfy a prerequisite. The student must
+    resolve the Incomplete and receive a letter grade before the prerequisite
+    is considered met.
+  • Transfer course equivalencies: Transfer students must have prerequisites
+    evaluated by the CS Advising Office. Transfer credit does not automatically
+    satisfy prerequisites; an equivalency evaluation is required.
+
+================================================================================
+SECTION: Course Repeat Policy
+================================================================================
+  1. Students may repeat any course in which they received a D+, D, D-, F, or W.
+  2. Students who receive a C- in a required course and need a C or higher must
+     also repeat the course.
+  3. When a course is repeated, BOTH the original and repeated grade appear on
+     the transcript. The HIGHER grade is used in GPA calculation (grade
+     replacement policy — effective for courses taken after Fall 2020).
+     Note: For courses taken before Fall 2020, both grades are averaged.
+  4. Required courses may be attempted at most THREE times total. A fourth
+     attempt requires a petition to the Academic Standards Committee.
+  5. Elective courses may be repeated once. Additional repeats require advisor
+     approval.
+  6. Students may not repeat a course in which they earned a B- or higher,
+     unless they receive written permission from the instructor and department chair.
+
+================================================================================
+SECTION: Credit Load and Overload Policy
+================================================================================
+Standard Credit Load:
+  • Full-time: 12–18 credits per semester.
+  • Part-time: fewer than 12 credits per semester.
+  • The standard maximum is 18 credits per semester without special approval.
+
+Overload Policy (more than 18 credits):
+  • Students wishing to enroll in 19–21 credits must have a cumulative GPA of
+    3.0 or higher and receive advisor approval.
+  • Enrollment in more than 21 credits in a single semester is NOT permitted
+    under any circumstances.
+  • Summer sessions: maximum 12 credits total across all summer sessions combined.
+
+Academic Probation Credit Limit:
+  • Students on academic probation may enroll in a maximum of 12 credits per term.
+
+================================================================================
+SECTION: Withdrawal Policy
+================================================================================
+  • Students may withdraw from a course without academic penalty through the end
+    of Week 10 of a 16-week semester (proportional for shorter terms).
+  • After Week 10, withdrawal requires dean's approval and will result in a W
+    on the transcript regardless.
+  • A W counts as an attempt toward the course repeat limit.
+  • Withdrawing from a course when it is a co-requisite for another enrolled
+    course automatically triggers withdrawal from the co-requisite course as well.
+
+================================================================================
+SECTION: Co-requisite Policy
+================================================================================
+Co-requisites are courses that must be taken IN THE SAME SEMESTER unless the
+catalog entry explicitly states "may have been completed in a prior term."
+  • If a course lists a co-requisite, students must be concurrently enrolled in
+    the co-requisite (or have already completed it with a C or higher) at the
+    time of enrollment.
+  • Dropping a co-requisite during the term triggers an administrative withdrawal
+    from the associated course unless a petition is approved by the department.
+
+================================================================================
+SECTION: Instructor Consent / Permission Courses
+================================================================================
+Some courses require instructor consent (listed as "instructor consent required"
+in the course description). For these courses:
+  • The student must obtain a Permission to Enroll (PTE) number from the
+    instructor or department office.
+  • Instructor consent does NOT waive other prerequisites unless the instructor
+    explicitly states so in writing.
+  • PTE numbers expire at the end of the enrollment period in which they were issued.
+
+================================================================================
+SECTION: Transfer Credit Policy
+================================================================================
+  • Transfer credits are evaluated by the Office of Transfer Admissions and
+    the relevant academic department.
+  • Transfer credits may satisfy prerequisites only after formal equivalency
+    approval from the CS Advising Office.
+  • Students transferring with an Associate's degree from an accredited institution
+    may receive up to 60 transfer credits.
+  • Courses transferred as "general elective credit" (not mapped to a specific
+    State University course) do NOT satisfy specific course prerequisites.
+
+================================================================================
+SECTION: Academic Probation and Dismissal
+================================================================================
+  • Academic probation is triggered when the cumulative GPA falls below 2.0 for
+    two consecutive terms.
+  • Students on academic probation are limited to 12 credit hours per term.
+  • Continued GPA below 2.0 for a third consecutive term may result in academic
+    dismissal from the major or the university.
+  • Dismissed students may apply for reinstatement after one full year away.
+
+================================================================================
+SECTION: Graduation Application Deadlines
+================================================================================
+  • Students must file a graduation application with the Registrar by:
+      — October 1 for December graduation
+      — March 1 for May graduation
+      — June 1 for August graduation
+  • Filing late requires a $75 late fee and may delay diploma processing.
+  • Degree audits are the responsibility of the student; the Registrar and
+    advisor serve in an advisory capacity only.
+
+================================================================================
+SECTION: Enrollment Timing and Add/Drop
+================================================================================
+  • Priority registration is offered to students based on earned credit hours
+    (seniors first, then juniors, etc.).
+  • The Add/Drop period lasts through the end of Week 2 of a 16-week semester.
+  • After Week 2, adding a course requires instructor and dean approval.
+  • A course dropped during the Add/Drop period does NOT appear on the transcript.

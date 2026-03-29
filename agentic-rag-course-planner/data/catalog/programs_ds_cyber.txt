@@ -1,0 +1,111 @@
+SOURCE: https://catalog.stateuniversity.edu/programs/minor-data-science
+TITLE: State University — Minor in Data Science: Requirements
+ACCESSED: 2025-01-15
+INSTITUTION: State University, Data Science Program
+
+================================================================================
+SECTION: Minor in Data Science — Overview
+================================================================================
+Total Credits Required: 18 credit hours
+This minor is open to students in any major. No more than 6 credits used to
+satisfy your primary major's requirements may also count toward the minor
+(this is the double-counting limit).
+
+================================================================================
+SECTION: Minor in Data Science — Required Courses
+================================================================================
+The following are REQUIRED (9 credits):
+  • DS 101 — Introduction to Data Science (3 cr)
+  • DS 201 — Data Wrangling and Visualization (3 cr)
+  • CS 220 — Statistics for Data Science (3 cr)
+
+================================================================================
+SECTION: Minor in Data Science — Elective Courses
+================================================================================
+Choose 9 additional credits from the following:
+  • CS 230 — Introduction to Data Science (3 cr)
+  • CS 260 — Linear Algebra for Machine Learning (3 cr)
+  • CS 320 — Machine Learning (3 cr)
+  • DS 301 — Applied Machine Learning (3 cr)
+  • CS 430 — Natural Language Processing (3 cr)
+  • MATH 240 — Probability and Statistics (3 cr)
+
+Note: At most 6 of the 9 elective credits may be from 200-level courses.
+At least 3 of the 9 elective credits must be at the 300-level or above.
+
+================================================================================
+SECTION: Minor in Data Science — GPA Requirement
+================================================================================
+A minimum GPA of 2.5 in all minor courses is required for the minor to appear
+on the transcript. Students below 2.5 may petition for an exception.
+
+================================================================================
+SOURCE: https://catalog.stateuniversity.edu/programs/certificate-cybersecurity
+TITLE: State University — Certificate in Cybersecurity
+ACCESSED: 2025-01-15
+INSTITUTION: State University, Department of Computer Science
+
+================================================================================
+SECTION: Certificate in Cybersecurity — Overview
+================================================================================
+Total Credits Required: 15 credit hours
+The Cybersecurity Certificate is a standalone credential. All courses must be
+completed with a C or higher. Certificate students are not required to be
+degree-seeking students at State University, but must be admitted as certificate
+students or as degree-seeking students.
+
+================================================================================
+SECTION: Certificate in Cybersecurity — Required Courses
+================================================================================
+  • CS 101 — Introduction to Programming (3 cr)  [or equivalent, with advisor approval]
+  • CS 210 — Computer Systems and Organization (3 cr)
+  • CS 240 — Introduction to Cybersecurity (3 cr)
+  • CS 440 — Advanced Cybersecurity (3 cr)
+  • CS 311 — Operating Systems (3 cr)
+
+Note: These courses have their own prerequisites. Students must satisfy prerequisites
+to enroll. No prerequisite waivers are granted for certificate students unless
+individually approved by the CS Department Chair.
+
+================================================================================
+SOURCE: https://catalog.stateuniversity.edu/programs/bs-data-science
+TITLE: State University — B.S. in Data Science: Degree Requirements
+ACCESSED: 2025-01-15
+INSTITUTION: State University, Data Science Program
+
+================================================================================
+SECTION: B.S. in Data Science — Overview
+================================================================================
+Total Credits Required: 120 credit hours
+Minimum GPA: 2.0 cumulative; 2.5 GPA in DS-prefix courses required to graduate.
+This major is housed in the joint CS/Math department.
+
+================================================================================
+SECTION: B.S. in Data Science — Required Courses
+================================================================================
+FOUNDATION (18 credits):
+  • DS 101 — Introduction to Data Science (3 cr)
+  • CS 101 — Introduction to Programming (3 cr)
+  • CS 150 — Discrete Mathematics for CS (3 cr)  [or MATH 300]
+  • MATH 120 — Calculus I (4 cr)
+  • CS 220 — Statistics for Data Science (3 cr)
+  • MATH 230 — Linear Algebra (3 cr)  [Note: CS 260 may substitute with advisor approval]
+
+CORE (15 credits):
+  • DS 201 — Data Wrangling and Visualization (3 cr)
+  • CS 250 — Data Structures and Algorithms (4 cr)
+  • CS 310 — Database Systems (3 cr)
+  • DS 301 — Applied Machine Learning (3 cr)
+  • CS 301 — Software Engineering (3 cr)
+
+ADVANCED (6 credits — choose 2):
+  • CS 320 — Machine Learning (3 cr)
+  • CS 430 — Natural Language Processing (3 cr)
+  • CS 410 — Advanced Database Systems (3 cr)
+  • CS 420 — Deep Learning (3 cr)
+
+CAPSTONE:
+  • DS 401 — Capstone in Data Science (3 cr)
+
+ELECTIVES: 12 credits from approved list
+GENERAL EDUCATION: Same as university-wide requirements (approximately 36 cr)

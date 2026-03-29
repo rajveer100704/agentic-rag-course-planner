@@ -1,0 +1,135 @@
+SOURCE: https://catalog.stateuniversity.edu/courses/cs/100-200
+TITLE: State University Course Catalog — Computer Science Courses (100–200 Level)
+ACCESSED: 2025-01-15
+INSTITUTION: State University, Department of Computer Science
+
+================================================================================
+SECTION: CS 101 — Introduction to Programming
+================================================================================
+Credits: 3
+Prerequisites: None
+Co-requisites: None
+Description:
+An introduction to programming concepts using Python. Topics include variables,
+control flow, functions, lists, dictionaries, file I/O, and basic object-oriented
+programming. Students will complete weekly labs and a final project.
+Offered: Fall, Spring, Summer
+Grade Requirement to Progress: Students must earn a C or higher to enroll in CS 201.
+
+================================================================================
+SECTION: CS 102 — Introduction to Web Development
+================================================================================
+Credits: 3
+Prerequisites: None
+Co-requisites: None
+Description:
+Covers HTML, CSS, and introductory JavaScript. Students build static and minimally
+dynamic web pages. No prior programming experience required.
+Offered: Fall, Spring
+Grade Requirement to Progress: No minimum grade required for downstream courses,
+but a C or higher is recommended.
+
+================================================================================
+SECTION: CS 150 — Discrete Mathematics for Computer Science
+================================================================================
+Credits: 3
+Prerequisites: MATH 110 (Precalculus) with a grade of C or higher, OR placement
+into MATH 120 or higher.
+Co-requisites: None
+Description:
+Logic, sets, relations, functions, induction, combinatorics, and graph theory.
+Heavy emphasis on proofs and formal reasoning. This course is required for the
+B.S. in Computer Science.
+Offered: Fall, Spring
+Grade Requirement to Progress: Students must earn a C or higher in CS 150 to
+enroll in CS 250 (Data Structures).
+
+================================================================================
+SECTION: CS 201 — Object-Oriented Programming
+================================================================================
+Credits: 3
+Prerequisites: CS 101 with a grade of C or higher.
+Co-requisites: None
+Description:
+Deep dive into object-oriented design using Java. Topics include classes,
+inheritance, polymorphism, interfaces, generics, exception handling, and
+introductory design patterns.
+Offered: Fall, Spring
+Grade Requirement to Progress: Students must earn a C or higher to enroll in
+CS 301 or CS 310.
+
+================================================================================
+SECTION: CS 210 — Computer Systems and Organization
+================================================================================
+Credits: 3
+Prerequisites: CS 101 with a grade of C or higher.
+Co-requisites: None
+Description:
+Introduction to computer hardware, binary representation, assembly language,
+memory hierarchy, and the C programming language. Covers how high-level programs
+are compiled to machine code.
+Offered: Fall, Spring
+Grade Requirement to Progress: A grade of C or higher is required to enroll in
+CS 311 (Operating Systems).
+
+================================================================================
+SECTION: CS 220 — Statistics for Data Science
+================================================================================
+Credits: 3
+Prerequisites: MATH 120 (Calculus I) with a grade of C or higher.
+Co-requisites: None
+Description:
+Probability theory, hypothesis testing, regression, and statistical inference
+with applications to data science. Students use Python for statistical computing.
+Offered: Fall, Spring
+
+================================================================================
+SECTION: CS 230 — Introduction to Data Science
+================================================================================
+Credits: 3
+Prerequisites: CS 101 with a grade of C or higher, AND MATH 110 or higher (or
+concurrent enrollment in MATH 110).
+Co-requisites: None
+Description:
+Covers the data science pipeline: data collection, cleaning, exploration,
+visualization, and basic modeling using pandas and matplotlib.
+Offered: Spring only
+Grade Requirement to Progress: None specified.
+
+================================================================================
+SECTION: CS 240 — Introduction to Cybersecurity
+================================================================================
+Credits: 3
+Prerequisites: CS 101 with a grade of C or higher.
+Co-requisites: None
+Description:
+Overview of cybersecurity principles: threats, vulnerabilities, encryption basics,
+network security, and ethical hacking fundamentals. Labs use Kali Linux.
+Offered: Fall only
+Grade Requirement to Progress: C or higher to enroll in CS 440 (Advanced Security).
+
+================================================================================
+SECTION: CS 250 — Data Structures and Algorithms
+================================================================================
+Credits: 4
+Prerequisites: CS 201 with a grade of C or higher, AND CS 150 with a grade of
+C or higher.
+Co-requisites: None
+Description:
+Arrays, linked lists, stacks, queues, trees, heaps, hash tables, graphs.
+Algorithm design techniques: divide-and-conquer, dynamic programming, greedy
+algorithms. Big-O analysis. Core required course for B.S. Computer Science.
+Offered: Fall, Spring
+Grade Requirement to Progress: C or higher required to enroll in CS 301, CS 350,
+CS 360, CS 370, or CS 380.
+
+================================================================================
+SECTION: CS 260 — Linear Algebra for Machine Learning
+================================================================================
+Credits: 3
+Prerequisites: MATH 120 (Calculus I) with a grade of C or higher.
+Co-requisites: None
+Description:
+Vectors, matrices, eigenvalues, singular value decomposition, and their
+applications in machine learning. Students implement algorithms in Python/NumPy.
+Offered: Spring only

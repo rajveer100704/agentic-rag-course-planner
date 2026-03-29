@@ -1,0 +1,236 @@
+SOURCE: https://catalog.stateuniversity.edu/courses/cs/300-400
+TITLE: State University Course Catalog — Computer Science Courses (300–400 Level)
+ACCESSED: 2025-01-15
+INSTITUTION: State University, Department of Computer Science
+
+================================================================================
+SECTION: CS 301 — Software Engineering
+================================================================================
+Credits: 3
+Prerequisites: CS 201 with a grade of C or higher, AND CS 250 with a grade of
+C or higher.
+Co-requisites: None
+Description:
+Software development life cycle, requirements engineering, UML modeling, testing
+methodologies, version control (Git), agile and Scrum practices. Includes a
+semester-long team project.
+Offered: Fall, Spring
+Grade Requirement to Progress: None specified for downstream electives.
+
+================================================================================
+SECTION: CS 310 — Database Systems
+================================================================================
+Credits: 3
+Prerequisites: CS 201 with a grade of C or higher, AND CS 250 with a grade of
+C or higher.
+Co-requisites: None
+Description:
+Relational model, SQL, normalization, indexing, transactions, concurrency
+control, and an introduction to NoSQL databases. Students design and implement
+a database-backed application.
+Offered: Fall, Spring
+Grade Requirement to Progress: C or higher to enroll in CS 410 (Advanced Databases).
+
+================================================================================
+SECTION: CS 311 — Operating Systems
+================================================================================
+Credits: 3
+Prerequisites: CS 210 with a grade of C or higher, AND CS 250 with a grade of
+C or higher.
+Co-requisites: None
+Description:
+Processes, threads, scheduling, memory management, file systems, I/O, and
+synchronization. Lab assignments in C on Linux.
+Offered: Fall only
+Grade Requirement to Progress: C or higher to enroll in CS 411 (Distributed Systems).
+
+================================================================================
+SECTION: CS 320 — Machine Learning
+================================================================================
+Credits: 3
+Prerequisites: CS 250 with a grade of C or higher, AND CS 260 (Linear Algebra)
+with a grade of C or higher, AND CS 220 (Statistics) with a grade of C or higher.
+Co-requisites: None
+Description:
+Supervised and unsupervised learning, neural networks, model evaluation. Students
+implement algorithms from scratch and use scikit-learn, PyTorch.
+Offered: Spring only
+Grade Requirement to Progress: C or higher to enroll in CS 420 (Deep Learning).
+
+================================================================================
+SECTION: CS 330 — Algorithms and Complexity
+================================================================================
+Credits: 3
+Prerequisites: CS 250 with a grade of C or higher, AND CS 150 with a grade of
+C or higher.
+Co-requisites: None
+Description:
+Advanced algorithm design: network flow, approximation algorithms, randomized
+algorithms. Complexity classes P, NP, NP-completeness reductions.
+Offered: Fall only
+
+================================================================================
+SECTION: CS 340 — Computer Networks
+================================================================================
+Credits: 3
+Prerequisites: CS 210 with a grade of C or higher, AND CS 250 with a grade of
+C or higher.
+Co-requisites: None
+Description:
+OSI and TCP/IP models, routing, TCP/UDP, DNS, HTTP, socket programming, and
+network security fundamentals.
+Offered: Fall, Spring
+
+================================================================================
+SECTION: CS 350 — Programming Languages
+================================================================================
+Credits: 3
+Prerequisites: CS 250 with a grade of C or higher.
+Co-requisites: None
+Description:
+Language paradigms (imperative, functional, logic), grammars, parsing, type
+systems, lambda calculus, Haskell, and Prolog.
+Offered: Spring only
+
+================================================================================
+SECTION: CS 360 — Computer Graphics
+================================================================================
+Credits: 3
+Prerequisites: CS 250 with a grade of C or higher, AND MATH 120 with a grade
+of C or higher.
+Co-requisites: None
+Description:
+2D/3D rendering, rasterization, OpenGL, shaders, transformations, lighting,
+and ray tracing.
+Offered: Spring only
+
+================================================================================
+SECTION: CS 370 — Human-Computer Interaction
+================================================================================
+Credits: 3
+Prerequisites: CS 250 with a grade of C or higher.
+Co-requisites: None
+Description:
+User-centered design, usability testing, prototyping, accessibility, and
+evaluation methods. Team projects build interactive prototypes.
+Offered: Fall only
+
+================================================================================
+SECTION: CS 380 — Compiler Design
+================================================================================
+Credits: 3
+Prerequisites: CS 250 with a grade of C or higher, AND CS 350 (Programming
+Languages) with a grade of C or higher.
+Co-requisites: None
+Description:
+Lexical analysis, parsing, semantic analysis, intermediate code generation,
+optimization, and code generation. Students build a full compiler.
+Offered: Fall only
+
+================================================================================
+SECTION: CS 390 — Ethics and Society in Computing
+================================================================================
+Credits: 3
+Prerequisites: CS 201 with a grade of C or higher.
+Co-requisites: None
+Description:
+Privacy, algorithmic bias, intellectual property, professional codes of conduct,
+and case studies in tech ethics. Writing-intensive.
+Offered: Fall, Spring
+Note: Required for B.S. Computer Science degree. This is NOT a technical elective;
+it satisfies the Ethics requirement in the Core.
+
+================================================================================
+SECTION: CS 398 — Undergraduate Research
+================================================================================
+Credits: 1–3 (variable)
+Prerequisites: Instructor consent required. Student must have completed at least
+60 credit hours and have a GPA of 3.0 or higher in CS courses.
+Co-requisites: None
+Description:
+Independent research under faculty supervision. Students produce a written report.
+May be repeated for credit up to 6 total credits.
+Offered: Fall, Spring, Summer
+
+================================================================================
+SECTION: CS 410 — Advanced Database Systems
+================================================================================
+Credits: 3
+Prerequisites: CS 310 with a grade of C or higher.
+Co-requisites: None
+Description:
+Query optimization, distributed databases, data warehousing, OLAP, and
+cloud-native data systems (Spark, BigQuery).
+Offered: Spring only
+
+================================================================================
+SECTION: CS 411 — Distributed Systems
+================================================================================
+Credits: 3
+Prerequisites: CS 311 (Operating Systems) with a grade of C or higher, AND
+CS 340 (Computer Networks) with a grade of C or higher.
+Co-requisites: None
+Description:
+Consensus algorithms, fault tolerance, CAP theorem, MapReduce, microservices,
+Docker, Kubernetes.
+Offered: Spring only
+
+================================================================================
+SECTION: CS 420 — Deep Learning
+================================================================================
+Credits: 3
+Prerequisites: CS 320 (Machine Learning) with a grade of C or higher.
+Co-requisites: None
+Description:
+CNNs, RNNs, transformers, attention mechanisms, training at scale, and
+applications in vision and NLP.
+Offered: Fall only
+
+================================================================================
+SECTION: CS 430 — Natural Language Processing
+================================================================================
+Credits: 3
+Prerequisites: CS 320 (Machine Learning) with a grade of C or higher.
+Co-requisites: None
+Description:
+Text classification, named entity recognition, language models, machine
+translation, and large language model fine-tuning.
+Offered: Spring only
+
+================================================================================
+SECTION: CS 440 — Advanced Cybersecurity
+================================================================================
+Credits: 3
+Prerequisites: CS 240 (Intro Cybersecurity) with a grade of C or higher, AND
+CS 311 (Operating Systems) with a grade of C or higher.
+Co-requisites: None
+Description:
+Penetration testing, malware analysis, reverse engineering, cryptographic
+protocols, and security architecture design.
+Offered: Fall only
+
+================================================================================
+SECTION: CS 450 — Cloud Computing
+================================================================================
+Credits: 3
+Prerequisites: CS 311 (Operating Systems) with a grade of C or higher, OR
+instructor consent.
+Co-requisites: None
+Description:
+IaaS, PaaS, SaaS models, AWS/GCP/Azure, serverless architectures, containers,
+and cloud security. Students deploy a cloud-native application.
+Offered: Spring only
+
+================================================================================
+SECTION: CS 490 — Senior Capstone Project
+================================================================================
+Credits: 3
+Prerequisites: Completion of at least 90 credit hours, CS 301 (Software
+Engineering) with a grade of C or higher, AND senior standing (as declared with
+the Registrar). Instructor consent required for exceptions.
+Co-requisites: None
+Description:
+Year-long project integrating skills from the CS program. Students work in teams
+to design, build, test, and present a software system.
+Offered: Fall, Spring
+Note: Counts as the Capstone requirement for B.S. Computer Science.

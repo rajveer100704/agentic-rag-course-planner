@@ -1,0 +1,6 @@
+outputs/vector_index.json
+outputs/chunks.json
+__pycache__/
+*.pyc
+.env
+*.zip

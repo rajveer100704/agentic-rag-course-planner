@@ -1,0 +1,19 @@
+# Core (no external APIs needed for base system)
+# Python stdlib only for TF-IDF vector store
+
+# Optional: upgrade to real embeddings
+# faiss-cpu>=1.7.4
+# sentence-transformers>=2.2.2
+
+# Optional: LLM integration
+# openai>=1.0.0
+# anthropic>=0.20.0
+# langchain>=0.1.0
+# langchain-openai>=0.0.5
+# langchain-community>=0.0.10
+
+# Demo UI
+gradio>=4.0.0
+
+# Utilities
+pathlib2>=2.3.7

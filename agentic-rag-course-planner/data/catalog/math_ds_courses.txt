@@ -1,0 +1,137 @@
+SOURCE: https://catalog.stateuniversity.edu/courses/math
+TITLE: State University Course Catalog — Mathematics Courses (Relevant to CS)
+ACCESSED: 2025-01-15
+INSTITUTION: State University, Department of Mathematics
+
+================================================================================
+SECTION: MATH 110 — Precalculus
+================================================================================
+Credits: 3
+Prerequisites: Satisfactory placement score OR MATH 095 with a grade of C or higher.
+Co-requisites: None
+Description:
+Functions, polynomial and rational functions, exponential and logarithmic
+functions, trigonometry, and an introduction to sequences and series.
+Offered: Fall, Spring, Summer
+Grade Requirement to Progress: C or higher to enroll in MATH 120.
+
+================================================================================
+SECTION: MATH 120 — Calculus I
+================================================================================
+Credits: 4
+Prerequisites: MATH 110 with a grade of C or higher, OR satisfactory calculus
+placement score.
+Co-requisites: None
+Description:
+Limits, derivatives, integrals, the Fundamental Theorem of Calculus, and
+applications.
+Offered: Fall, Spring, Summer
+Grade Requirement to Progress: C or higher to enroll in MATH 121.
+
+================================================================================
+SECTION: MATH 121 — Calculus II
+================================================================================
+Credits: 4
+Prerequisites: MATH 120 with a grade of C or higher.
+Co-requisites: None
+Description:
+Techniques of integration, series, sequences, parametric curves, and polar
+coordinates.
+Offered: Fall, Spring
+
+================================================================================
+SECTION: MATH 215 — Calculus III (Multivariable)
+================================================================================
+Credits: 4
+Prerequisites: MATH 121 with a grade of C or higher.
+Co-requisites: None
+Description:
+Partial derivatives, multiple integrals, vector calculus, Green's and Stokes'
+theorems.
+Offered: Fall, Spring
+
+================================================================================
+SECTION: MATH 230 — Linear Algebra
+================================================================================
+Credits: 3
+Prerequisites: MATH 120 with a grade of C or higher.
+Co-requisites: None
+Description:
+Systems of equations, matrix operations, determinants, vector spaces,
+eigenvalues, and linear transformations.
+Offered: Fall, Spring
+
+================================================================================
+SECTION: MATH 240 — Probability and Statistics
+================================================================================
+Credits: 3
+Prerequisites: MATH 120 with a grade of C or higher.
+Co-requisites: None
+Description:
+Probability spaces, random variables, distributions, hypothesis testing,
+confidence intervals, and linear regression.
+Offered: Fall, Spring
+
+================================================================================
+SECTION: MATH 300 — Introduction to Proofs
+================================================================================
+Credits: 3
+Prerequisites: MATH 121 with a grade of C or higher.
+Co-requisites: None
+Description:
+Logic, set theory, proof techniques (direct, contradiction, induction), and
+introduction to abstract mathematics.
+Offered: Fall, Spring
+
+================================================================================
+SOURCE: https://catalog.stateuniversity.edu/courses/ds
+TITLE: State University Course Catalog — Data Science Courses
+ACCESSED: 2025-01-15
+INSTITUTION: State University, Data Science Program
+
+================================================================================
+SECTION: DS 101 — Introduction to Data Science
+================================================================================
+Credits: 3
+Prerequisites: None
+Co-requisites: CS 101 (may be taken concurrently)
+Description:
+Overview of data science as a field, the data pipeline, basic tools (Jupyter,
+pandas), and data ethics. Designed for students exploring the major.
+Offered: Fall, Spring
+
+================================================================================
+SECTION: DS 201 — Data Wrangling and Visualization
+================================================================================
+Credits: 3
+Prerequisites: DS 101 OR CS 230, AND MATH 110 or higher.
+Co-requisites: None
+Description:
+Advanced data cleaning, transformation, and visualization using pandas, seaborn,
+and Plotly. Students work with real-world messy datasets.
+Offered: Fall, Spring
+
+================================================================================
+SECTION: DS 301 — Applied Machine Learning
+================================================================================
+Credits: 3
+Prerequisites: DS 201 with a grade of C or higher, AND CS 220 (Statistics for
+Data Science) with a grade of C or higher, AND CS 260 (Linear Algebra for ML)
+with a grade of C or higher.
+Co-requisites: None
+Description:
+End-to-end machine learning projects: feature engineering, model selection,
+hyperparameter tuning, deployment. Kaggle competitions required.
+Offered: Fall only
+
+================================================================================
+SECTION: DS 401 — Capstone in Data Science
+================================================================================
+Credits: 3
+Prerequisites: DS 301 with a grade of C or higher, AND completion of at least
+90 credit hours, AND senior standing.
+Co-requisites: None
+Description:
+Year-long industry-partnered data science project. Students present findings
+to an external panel.
+Offered: Spring only

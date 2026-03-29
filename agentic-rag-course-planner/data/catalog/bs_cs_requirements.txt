@@ -1,0 +1,112 @@
+SOURCE: https://catalog.stateuniversity.edu/programs/bs-computer-science
+TITLE: State University — B.S. in Computer Science: Degree Requirements
+ACCESSED: 2025-01-15
+INSTITUTION: State University, Department of Computer Science
+
+================================================================================
+SECTION: B.S. in Computer Science — Overview
+================================================================================
+Total Credits Required: 120 credit hours
+Minimum GPA: 2.0 cumulative GPA; 2.0 CS-prefix GPA required to graduate.
+Residency Requirement: At least 30 of the final 36 credits must be completed at
+State University. Transfer credits may count toward requirements but must be
+approved by the CS Advising Office.
+Catalog Year Policy: Students follow the degree requirements of the catalog year
+in which they first enrolled in a CS course (or declared the major, whichever
+is earlier). Students may petition to switch to a newer catalog year.
+
+================================================================================
+SECTION: B.S. Computer Science — Core Requirements (Required for ALL students)
+================================================================================
+The following courses are REQUIRED. No substitutions without written petition
+approved by the Department Chair.
+
+FOUNDATION COURSES (13 credits):
+  • CS 101 — Introduction to Programming (3 cr)
+  • CS 150 — Discrete Mathematics for Computer Science (3 cr)
+  • CS 201 — Object-Oriented Programming (3 cr)
+  • CS 210 — Computer Systems and Organization (3 cr)
+  • MATH 120 — Calculus I (4 cr)  [Note: MATH 121 may substitute with advisor approval]
+
+INTERMEDIATE CORE (16 credits):
+  • CS 250 — Data Structures and Algorithms (4 cr)
+  • CS 310 — Database Systems (3 cr)
+  • CS 311 — Operating Systems (3 cr)
+  • CS 301 — Software Engineering (3 cr)
+  • CS 390 — Ethics and Society in Computing (3 cr)  [Ethics requirement]
+
+ADVANCED CORE (6 credits — choose ONE of the following tracks):
+
+  Track A: Systems Track
+    • CS 411 — Distributed Systems (3 cr)  [requires CS 311 + CS 340]
+    • CS 340 — Computer Networks (3 cr)
+
+  Track B: Intelligent Systems Track
+    • CS 320 — Machine Learning (3 cr)  [requires CS 250 + CS 260 + CS 220]
+    • CS 260 — Linear Algebra for Machine Learning (3 cr)
+
+  Track C: Theory Track
+    • CS 330 — Algorithms and Complexity (3 cr)
+    • CS 350 — Programming Languages (3 cr)
+
+CAPSTONE (3 credits):
+  • CS 490 — Senior Capstone Project (3 cr)
+
+================================================================================
+SECTION: B.S. Computer Science — Technical Electives
+================================================================================
+Students must complete 15 credits of Technical Electives from the approved list.
+Rules:
+  1. At least 9 of the 15 elective credits must be at the 300-level or above.
+  2. At most 6 credits may be from outside the CS department (cross-listed or
+     partner-department courses), subject to advisor approval.
+  3. Courses used to satisfy the Advanced Core track may NOT also count as
+     Technical Electives.
+  4. DS 301 and DS 401 are approved Technical Electives for CS majors.
+
+Approved Technical Elective List (CS courses):
+  CS 230, CS 240, CS 320, CS 330, CS 340, CS 350, CS 360, CS 370, CS 380,
+  CS 410, CS 411, CS 420, CS 430, CS 440, CS 450, CS 398 (up to 3 cr)
+
+================================================================================
+SECTION: B.S. Computer Science — General Education Requirements
+================================================================================
+Students must satisfy State University's General Education (Gen Ed) requirements:
+  • English Composition I & II (6 cr) — ENGL 101 and ENGL 102
+  • Quantitative Reasoning (satisfied by MATH 120 or higher)
+  • Natural Sciences (6 cr, with lab) — 2 lab science courses
+  • Social Sciences (6 cr) — 2 approved social science courses
+  • Humanities (6 cr) — 2 approved humanities courses
+  • Ethics (satisfied by CS 390)
+  • Diversity and Inclusion (3 cr) — 1 approved D&I course
+
+Note: CS 390 simultaneously satisfies both the CS Ethics Core requirement and the
+University Ethics Gen Ed requirement. It does NOT double-count toward electives.
+
+================================================================================
+SECTION: B.S. Computer Science — Free Electives
+================================================================================
+Students need sufficient free elective credits to reach 120 total.
+Typically 12–18 free elective credits are needed depending on AP/transfer credits.
+Any course offered at State University may be used as a free elective.
+
+================================================================================
+SECTION: B.S. Computer Science — Academic Standing Rules
+================================================================================
+  • Students must maintain a 2.0 cumulative GPA and 2.0 CS GPA.
+  • A student receiving a D or F in a required CS course must retake that course.
+  • Required courses may be repeated at most TWICE (three attempts total).
+  • After three failed attempts, the student must petition for a fourth attempt
+    or may be academically dismissed from the major.
+  • Students on academic probation may not enroll in more than 12 credits per term.
+
+================================================================================
+SECTION: B.S. Computer Science — Advising Notes
+================================================================================
+  • Students should aim to complete all Foundation courses by end of sophomore year.
+  • The recommended sequence for the Intelligent Systems track:
+      Year 1: CS 101, CS 150, MATH 120
+      Year 2: CS 201, CS 210, CS 250, CS 220, CS 260
+      Year 3: CS 310, CS 311, CS 301, CS 320, CS 390
+      Year 4: CS 420 or CS 430, CS 490, Technical Electives
+  • CS 150 and MATH 120 may be taken concurrently.
