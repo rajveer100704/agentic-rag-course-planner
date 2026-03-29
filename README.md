@@ -5,35 +5,35 @@ A production-grade RAG pipeline that answers student course-planning questions s
 
 ---
 
-## 🎬 Demo (Screen Recording — ~60 seconds)
+## 🎬 Demo 
 
 > **Watch the assistant in action:** 5 live interactions covering all major capabilities.
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  🎓 Prerequisite & Course Planning Assistant                    │
-│  ─────────────────────────────────────────────────────────────  │
-│                                                                 │
-│  DEMO 1 ► ELIGIBLE prereq check                                │
-│           "Can I take CS 201 with CS 101 B+?"                  │
-│           → ✅ ELIGIBLE | Citation: CS 201 section             │
-│                                                                 │
-│  DEMO 2 ► NOT ELIGIBLE — C- grade trap                        │
-│           "CS 201 C- → CS 250?" (C- ≠ C or higher)            │
-│           → ❌ NOT ELIGIBLE | Cites grading policy            │
-│                                                                 │
-│  DEMO 3 ► Course Plan — 5 courses, 16 credits                 │
-│           "Plan Fall 2025 for B.S. CS"                         │
-│           → CS210, CS250, CS390, CS260, CS220                  │
-│                                                                 │
-│  DEMO 4 ► Safe Abstention (NOT IN CATALOG)                    │
-│           "Who teaches CS 320 next semester?"                   │
-│           → 🚫 Correctly refuses + redirects                   │
-│                                                                 │
-│  DEMO 5 ► Multi-hop Chain (CS 440)                            │
-│           "CS 240 A- + CS 311 B → CS 440?"                    │
-│           → ✅ ELIGIBLE | Cites CS 440 section                │
-└─────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────  ┐
+│  🎓 Prerequisite & Course Planning Assistant                     │
+│  ─────────────────────────────────────────────────────────────   │
+│                                                                  │
+│  DEMO 1 ► ELIGIBLE prereq check                                  │
+│           "Can I take CS 201 with CS 101 B+?"                    │
+│           → ✅ ELIGIBLE | Citation: CS 201 section               │
+│                                                                  │
+│  DEMO 2 ► NOT ELIGIBLE — C- grade trap                           │
+│           "CS 201 C- → CS 250?" (C- ≠ C or higher)               │
+│           → ❌ NOT ELIGIBLE | Cites grading policy               │
+│                                                                  │
+│  DEMO 3 ► Course Plan — 5 courses, 16 credits                    │
+│           "Plan Fall 2025 for B.S. CS"                           │
+│           → CS210, CS250, CS390, CS260, CS220                    │
+│                                                                  │
+│  DEMO 4 ► Safe Abstention (NOT IN CATALOG)                       │
+│           "Who teaches CS 320 next semester?"                    │
+│           → 🚫 Correctly refuses + redirects                     │
+│                                                                  │
+│  DEMO 5 ► Multi-hop Chain (CS 440)                               │
+│           "CS 240 A- + CS 311 B → CS 440?"                       │
+│           → ✅ ELIGIBLE | Cites CS 440 section                   │
+└───────────────────────────────────────────────────────────────── ┘
 ```
 
 ### ▶️ Run the recording yourself (< 60 seconds):
