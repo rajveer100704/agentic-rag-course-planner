@@ -88,5 +88,3 @@ Each agent is a Python class with a `run(state) → state` method, making it eas
 5. Add semester-availability API integration to answer "Is CS 310 offered this spring?" from live data
 
 ---
-
-*Total build time: ~30 minutes autonomous. System runs fully offline with zero external API dependencies.*
